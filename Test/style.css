@@ -1,0 +1,23 @@
+body{
+    background: url(https://i.gifer.com/origin/7d/7d5c2e278bcc1b8113863662f952db83.gif);
+}
+.userCard{
+    width: 100%;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.Blocks{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    color: white;
+    background: none;
+}
+
+.buttonAdd{
+    width: 90px;
+    height: 30px;
+    background: none;
+    color: white;
+}
